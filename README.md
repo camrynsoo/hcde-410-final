@@ -1,4 +1,4 @@
-# hcde-410-final
+# hcde-410-final: Books vs. Movies Adaptations: A Comparative Analysis of Ratings
 HCDE410 - Assignment A7
 Camryn Soo - 12/8/24
 
