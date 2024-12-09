@@ -16,13 +16,13 @@ In this project for my HCDE 410 Human Data Interaction class I explore the quest
 ## Data Sources / Licenses
 **Books ratings [(Kaggle by Abdallah Wagih Ibrahim - ](https://www.kaggle.com/abdallahwagih)["Books Dataset")](https://www.kaggle.com/datasets/abdallahwagih/books-dataset):** contains information about the book such as its publication date and its rating out of 5.
 
-Credit:[Abdallah Wagih Ibrahim](https://www.kaggle.com/abdallahwagih)
+Credit: [Abdallah Wagih Ibrahim](https://www.kaggle.com/abdallahwagih)
 
-License:[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) (therefore usable for this project!)
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) (therefore usable for this project!)
 
 **List of books that have movie adaptations [(IMDb by Addicted-to-Films - ](https://www.imdb.com/user/ur3017944/?ref_=ls_usr_ov) ["Book-to-Film Adaptations")](https://www.imdb.com/list/ls000989358/?view=compact&sort=alpha%2Casc) and [(IMDb by kiraalt - ](https://www.imdb.com/user/ur3582225/?ref_=ls_usr_ov)["100 Movies based on 100 Classic Great Books")](https://www.imdb.com/list/ls074934904/):** Both of these lists are curated by individuals who have compiled a list of movies whose story originated from a book. They both include IMDb ratings out of 10.
 
-Credit(s):[Addicted-to-Films](https://www.imdb.com/user/ur3017944/?ref_=ls_usr_ov) & [kiraalt](https://www.imdb.com/user/ur3582225/?ref_=ls_usr_ov)
+Credit(s): [Addicted-to-Films](https://www.imdb.com/user/ur3017944/?ref_=ls_usr_ov) & [kiraalt](https://www.imdb.com/user/ur3582225/?ref_=ls_usr_ov)
 
 License(s): Public domain
 
